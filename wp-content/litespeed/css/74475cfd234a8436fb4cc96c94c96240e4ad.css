@@ -1,0 +1,17 @@
+.wp-block-embed iframe{width:100%}
+.wp-block-quote.is-large,.wp-block-quote.is-style-large{font-size:1.7142857143rem;border:0;-webkit-box-shadow:none;box-shadow:none}
+.wp-block-quote.is-large cite,.wp-block-quote.is-style-large cite{text-align:inherit}
+code[class*=language-],pre[class*=language-]{background:inherit}
+.amp-block-latest-stories amp-carousel>div,body .amp-block-latest-stories{overflow-x:hidden !important}
+.wp-block-gallery{margin-left:0;margin-bottom:1.2em}
+.wp-block-image figcaption{font-size:15px;margin-top:1em}
+.entry-content .wp-block-gallery{padding-left:0}
+.full .alignfull,.full .alignwide{margin-bottom:2em;width:100%}
+.full .alignfull img,.full .alignwide img{display:block}
+.full .alignwide{max-width:none}
+.full .alignfull{width:100vw;margin-left:calc(50% - 50vw);max-width:none}
+.wp-block-embed.wp-embed-aspect-16-9 .wp-block-embed__wrapper:before{padding-top:0}
+.wp-block-columns{margin-bottom:1.2em}
+@media(min-width:989px){.full .alignwide{width:75vw;margin-left:calc(50% - 37.5vw)}
+}@media(max-width:679px){.full .alignfull.wp-block-gallery,.full .alignwide.wp-block-gallery{margin-left:-8px;margin-right:-8px;width:inherit}
+}
